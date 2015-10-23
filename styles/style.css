@@ -1,3 +1,4 @@
+/*
 .highlight {
   color:orange; 
 }
@@ -13,4 +14,33 @@ background-color: black
 a:hover {
  color: red;
  font-size: 2em;
+}
+*/
+
+h1:hover {
+ color: deeppink;
+}
+
+a:visited {
+    color: orange;
+}
+
+header { 
+  text-align: center;
+  width: 75%;
+  margin: auto;
+}
+
+article {
+  width: 60%;
+  margin: auto;
+}
+
+p::first{
+  font-size: 1.5em;
+}
+
+footer {
+ border: 2px solid magenta;
+  border-radius: 25px;
 }
