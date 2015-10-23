@@ -44,3 +44,12 @@ footer {
  border: 2px solid magenta;
   border-radius: 25px;
 }
+img {
+  width: 15em;
+}
+
+header img {
+  width: 70%;
+}
+
+/* more recent takes prescedent */
